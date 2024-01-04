@@ -1,0 +1,1 @@
+Final project for my intro to comp-sci class. Written completely in Cpp. Implements a dungeon escape game where a player must battle monsters while trying to escape a dungeon. The player can find treasure, upgrade weapons, cook food, and fight monsters as they traverse the dungeon. 

@@ -1,0 +1,1 @@
+First intro computer science class project. The main file is the scientificPitch.cpp file. The goal of this project was to get familiear with using functions and taking user inputs as arguments to these functions. 

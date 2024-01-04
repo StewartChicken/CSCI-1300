@@ -1,2 +1,1 @@
-# CSCI-1300
-Intro to computer science with C++
+This fold contains the assignments and projects I completed during my intro-compsci class, second semester freshmen year. The class was the University of Colorado, Boulder's CSCI1300. It was taught in C++.
